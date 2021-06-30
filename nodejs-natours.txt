@@ -1,0 +1,7 @@
+6. Running Javascript Outside the Browser
+Open terminal, type "node" then press "tab" button. It will show all core modules of Node.
+They are also global variables.
+
+_ means previous value/result.
+
+String. then press tab button, it will show all methods of String.
