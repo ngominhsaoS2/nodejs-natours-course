@@ -5,3 +5,9 @@ They are also global variables.
 _ means previous value/result.
 
 String. then press tab button, it will show all methods of String.
+
+
+
+7. Using Modules 1: Core Modules
+node <file-to-run> :to run the file. eg node index.js to run file index.js
+fs is File System module.
