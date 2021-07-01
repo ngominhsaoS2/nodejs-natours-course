@@ -18,3 +18,7 @@ fs is File System module.
 \n :new line.
 
 
+
+9. Blocking and Non-Blocking: Asynchronous Nature of Node.js
+Nodejs is single-threaded. There are some "back-ground" under that thread.
+Callback hell when using callback functions.
